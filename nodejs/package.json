@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dvberkel/fly-with-me-starter-kit/issues"
   },
-  "homepage": "https://github.com/dvberkel/fly-with-me-starter-kit"
+  "homepage": "https://github.com/dvberkel/fly-with-me-starter-kit",
+  "dependencies": {
+    "ar-drone": "~0.3.1"
+  }
 }
